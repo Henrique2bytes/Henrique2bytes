@@ -1,16 +1,18 @@
-## Hi there 👋
+# Henrique
 
-<!--
-**Henrique2bytes/Henrique2bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Software Engineer focused on Python, backend systems, APIs, command-line tools, and automated testing.
 
-Here are some ideas to get you started:
+I build software end to end, work with existing codebases, investigate defects, and evaluate implementation quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My engineering interests include:
+
+- Python development and backend architecture
+- API integration and automation
+- CLI tools and developer workflows
+- Automated testing and regression analysis
+- AI-assisted software engineering and coding-agent evaluation
+- Security-conscious engineering and technical review
+
+I value reproducibility, clear evidence, maintainability, and honest engineering assessments.
+
+This profile contains only work I can share publicly. Private projects and client-related systems are intentionally excluded.
